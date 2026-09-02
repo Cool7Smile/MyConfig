@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bMargin</key>
+	<real>30</real>
+	<key>fontWeight</key>
+	<real>0.0</real>
+	<key>headIndent</key>
+	<real>2</real>
+	<key>lMargin</key>
+	<real>25</real>
+	<key>lineSpacing</key>
+	<real>10</real>
+	<key>lrMargin</key>
+	<integer>24</integer>
+	<key>paibanId</key>
+	<string>1745608979.751099</string>
+	<key>paraSpacing</key>
+	<integer>8</integer>
+	<key>rMargin</key>
+	<real>25</real>
+	<key>tMargin</key>
+	<real>70</real>
+	<key>title</key>
+	<string>香色排版250426</string>
+	<key>titleFontSizeOffset</key>
+	<real>4</real>
+	<key>titleFontWeight</key>
+	<real>0.0</real>
+	<key>titleLineSpacing</key>
+	<real>10</real>
+	<key>titleParaSpacing</key>
+	<real>5</real>
+	<key>titleWordSpacing</key>
+	<integer>0</integer>
+	<key>widgetBottom</key>
+	<real>15</real>
+	<key>widgetLeft</key>
+	<integer>25</integer>
+	<key>widgetRight</key>
+	<integer>25</integer>
+	<key>widgetTitleLeft</key>
+	<real>25</real>
+	<key>widgetTitleTop</key>
+	<real>40</real>
+	<key>wordSpacing</key>
+	<integer>0</integer>
+</dict>
+</plist>
